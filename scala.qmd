@@ -1,0 +1,21 @@
+---
+title: "Scala demo"
+format:
+  html:
+    code-fold: false
+    code-copy: hover
+    highlight-style: github
+jupyter: python3
+---
+
+This is a scala demo
+
+```scala
+val v = 1
+val t = Seq("1","2")
+// 1 +1 = 2
+```
+
+```{python}
+1+1
+```
